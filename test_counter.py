@@ -2,7 +2,8 @@
 
 from unittest import TestCase
 from app.server import app
-from app.statuscodes import *
+from app.statuscodes import STATUS_CODE_OK, STATUS_CODE_CREATED, \
+STATUS_CODE_NOT_FOUND, STATUS_CODE_DUPLICATE
 #from unittest.mock import patch
 import json
 
