@@ -1,5 +1,4 @@
 flask
 flake8
-json
 green
 coverage
