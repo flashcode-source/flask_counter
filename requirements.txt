@@ -1,6 +1,5 @@
 flask
 flake8
-unittest
 json
 green
 coverage
